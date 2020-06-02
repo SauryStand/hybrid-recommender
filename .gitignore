@@ -127,3 +127,22 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+.idea
+.DS_Store
+*/.DS_Store
+
+*[Da]ata/*
+dataset/*
+/data
+
+data/*
+*.label
+*.eml
+*.csv
+Icon
+
+checkpoints
+.pytest_cache
